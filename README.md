@@ -1,2 +1,3 @@
-# hadoop-practice
-Hadoop practice.
+# Hadoop Practice
+
+Hadoop programming practice.
